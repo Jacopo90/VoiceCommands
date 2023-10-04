@@ -2,6 +2,12 @@
 
 ## "Speech to command" mobile project
 
+> Note about production ready:
+> The application should be ready for production. 
+Just need to subscribe to apple license program and I would be able to create the ipa and distribute it
+
+
+
 Mobile project for iOS
 
 Language : Swift

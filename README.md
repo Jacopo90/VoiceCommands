@@ -5,6 +5,7 @@
 Mobile project for iOS
 
 Language : Swift
+Minimum iOS version: 15.0
 
 ### MAIN PAGE: 
 

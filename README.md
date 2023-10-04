@@ -4,13 +4,13 @@
 
 > Note about production ready:
 > The application should be ready for production. 
-Just need to subscribe to apple license program and I would be able to create the ipa and distribute it
+But a subscription to apple license program  is required to be able to create the ipa and distribute it
 
 
 
 Mobile project for iOS
 
-Language : Swift
+Language : Swift  
 Minimum iOS version: 15.0
 
 ### MAIN PAGE: 

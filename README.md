@@ -13,6 +13,18 @@ Mobile project for iOS
 Language : Swift  
 Minimum iOS version: 15.0
 
+## Install and launch app
+- Open the .xcodeproj file with xcode
+- Select a running destination device (iPhone , minimum iOS version is 15.0)
+- open the signing and capabilities tab in the target "VoiceCommands" setting and select  "automatically manage signing" or a personal provisioning profile
+- run the application
+
+## First usage
+During the first run the application will ask you the permissions to use the voice recognition  
+
+![Simulator Screenshot - iPhone 14 Pro - 2023-10-04 at 19 02 15](https://github.com/Jacopo90/VoiceCommands/assets/6302498/b3f42911-6f8b-4b43-94f4-bc70363267d8)
+
+
 ### MAIN PAGE: 
 
 ![Simulator Screenshot - iPhone 14 Pro - 2023-10-04 at 17 24 24](https://github.com/Jacopo90/VoiceCommands/assets/6302498/f8f206cb-4890-4b6d-9434-d5989a1996ed)

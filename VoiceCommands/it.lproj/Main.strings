@@ -1,0 +1,32 @@
+
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BMd-h1-cl3"; */
+"BMd-h1-cl3.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "listen"; ObjectID = "DgS-kT-6BK"; */
+"DgS-kT-6BK.configuration.title" = "ascolta";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DgS-kT-6BK"; */
+"DgS-kT-6BK.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "all commands"; ObjectID = "TpS-c2-oXG"; */
+"TpS-c2-oXG.configuration.title" = "Tutti i comandi";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TpS-c2-oXG"; */
+"TpS-c2-oXG.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "f6N-ai-aU4"; */
+"f6N-ai-aU4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jck-Kg-g36"; */
+"jck-Kg-g36.text" = "Label";
+
+/* Class = "UIButton"; configuration.title = "L"; ObjectID = "kwA-rF-NUq"; */
+"kwA-rF-NUq.configuration.title" = "L";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "kwA-rF-NUq"; */
+"kwA-rF-NUq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Commands List"; ObjectID = "ybh-Ij-smR"; */
+"ybh-Ij-smR.text" = "Lista dei comandi";
+

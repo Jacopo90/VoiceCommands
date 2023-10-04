@@ -1,0 +1,32 @@
+/* 
+  Localizable.strings
+  VoiceCommands
+
+  Created by ABSTRACT on 04/10/23.
+  
+*/
+"listening" = "listening..";
+"waiting" = "waiting";
+"listen" = "listen";
+"commands_list" = "Executed commands";
+"active_commands"= "commands";
+"state" = "state";
+"current_command" = "Current command";
+"no_data_title" = "No commands yet";
+"no_data_subtitle" = "Click 'listen' to start";
+"parameters" = "parameters";
+"all_commands_title" = "All available commands";
+"all_commands_description" = "Here you can select the command to add in the active list of commands";
+"active_commands_title" = "Active commands";
+"active_commands_description" = "This is the list of the active commands";
+"all_languages_title" = "Language";
+"all_languages_description" = "Here you can change the language of the application";
+
+// commands
+"count" = "count";
+"code" = "code";
+"reset" = "reset";
+"back" = "back";
+"stop" = "stop";
+"config" = "config";
+
